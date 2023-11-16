@@ -1,3 +1,6 @@
-altair
-pandas
+openai
+langchain
 streamlit
+supabase
+supabase-py
+requests
